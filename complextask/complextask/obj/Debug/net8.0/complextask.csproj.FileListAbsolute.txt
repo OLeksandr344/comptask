@@ -1,0 +1,14 @@
+C:\Users\Dell G15\source\repos\complextask\complextask\bin\Debug\net8.0\complextask.exe
+C:\Users\Dell G15\source\repos\complextask\complextask\bin\Debug\net8.0\complextask.deps.json
+C:\Users\Dell G15\source\repos\complextask\complextask\bin\Debug\net8.0\complextask.runtimeconfig.json
+C:\Users\Dell G15\source\repos\complextask\complextask\bin\Debug\net8.0\complextask.dll
+C:\Users\Dell G15\source\repos\complextask\complextask\bin\Debug\net8.0\complextask.pdb
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\complextask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\complextask.AssemblyInfoInputs.cache
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\complextask.AssemblyInfo.cs
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\complextask.csproj.CoreCompileInputs.cache
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\complextask.dll
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\refint\complextask.dll
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\complextask.pdb
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\complextask.genruntimeconfig.cache
+C:\Users\Dell G15\source\repos\complextask\complextask\obj\Debug\net8.0\ref\complextask.dll
