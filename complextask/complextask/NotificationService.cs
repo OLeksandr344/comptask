@@ -16,7 +16,7 @@ namespace complextask
         
         public static void sendNotification(Order order)
         {
-            Console.WriteLine($"Статус замовлення {order} змінено");
+            Console.WriteLine($"Статус замовлення {order.OrderId} змінено - {order.status}");
             
         }
         
